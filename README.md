@@ -1,4 +1,4 @@
-# OOP_Session_Files
+# OOP Session Files and Notes
 
 ## Quick Look at JavaScript and how it is very similar to Python
 
