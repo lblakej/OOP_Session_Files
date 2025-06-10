@@ -2,7 +2,7 @@
 
 ## Quick Look at JavaScript and how it is very similar to Python
 
-Last week I held up this book for you to see: [*JavaScript Crash Course* by Nick Morgan (Link to Wake Co. Libaries)](https://catalog.wake.gov/Record/782490?searchId=117195283&recordIndex=1&page=1). I mentioned how much I like the [no starch press](https://nostarch.com/) books. 
+I have previously mentioned how much I like the [no starch press](https://nostarch.com/) books. [*JavaScript Crash Course* by Nick Morgan (Link to Wake Co. Libaries)](https://catalog.wake.gov/Record/782490?searchId=117195283&recordIndex=1&page=1). 
 
 <img src="images/jscc.jpg" alt="drawing" style="width:200px;float:right;padding-left:25px;"/>
 
